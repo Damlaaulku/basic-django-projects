@@ -3,7 +3,7 @@ The English Dictionary project is a Django web application that provides users w
 
 Functionality
 Word Lookup: Users can enter a word in the search bar and retrieve its definition and other related information.
-API Integration: The app utilizes the Merriam-Webster API (or any other dictionary API) to fetch data for the searched words.
+API Integration: The app utilizes the MGoslate API (free google translate api) to fetch data for the searched words.
 User-friendly Interface: The interface is designed to be intuitive and easy to use, allowing users to quickly find the information they need.
 Django Admin Page
 The project includes a Django admin page, accessible to superusers, where they can manage the database and perform CRUD (Create, Read, Update, Delete) operations on words and their definitions. Superusers can add, edit, or delete words and their meanings to keep the dictionary up-to-date.
